@@ -10,7 +10,7 @@
 1. Download Zip file and extract or clone repo
 2. Navigate to the directory that was extracted or cloned in a terminal
 3. Run ` # docker-compose up`. This will start the API running at `localhost:9888`
-    - Open a web browser window an navigate to `localhost:9888/`. A response should be displayed.
+    - Open a web browser window and navigate to `localhost:9888/`. A response should be displayed.
 4. The API can be interacted with using POST and GET commands from the terminal 
     
     ##### Examples: 
